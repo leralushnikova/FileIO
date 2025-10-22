@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: FileIO
+
+file:
+  path: src/main/resources/

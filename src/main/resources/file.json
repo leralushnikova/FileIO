@@ -1,0 +1,111 @@
+[ {
+  "city" : "Москва",
+  "street" : "ул. Ленина",
+  "houseNumber" : 10,
+  "apartmentNumber" : 123,
+  "price" : 5000000.0,
+  "livingArea" : 45.0,
+  "rooms" : 2,
+  "floor" : 5,
+  "entrance" : 1
+}, {
+  "city" : "Санкт-Петербург",
+  "street" : "ул. Невского",
+  "houseNumber" : 25,
+  "apartmentNumber" : 16,
+  "price" : 7500000.0,
+  "livingArea" : 60.0,
+  "rooms" : 2,
+  "floor" : 7,
+  "entrance" : 2
+}, {
+  "city" : "Санкт-Петербург",
+  "street" : "ул. Невского",
+  "houseNumber" : 25,
+  "apartmentNumber" : 46,
+  "price" : 7500000.0,
+  "livingArea" : 60.0,
+  "rooms" : 3,
+  "floor" : 9,
+  "entrance" : 2
+}, {
+  "city" : "Казань",
+  "street" : "ул. Пушкина",
+  "houseNumber" : 30,
+  "apartmentNumber" : 789,
+  "price" : 4200000.0,
+  "livingArea" : 55.0,
+  "rooms" : 2,
+  "floor" : 7,
+  "entrance" : 3
+}, {
+  "city" : "Екатеринбург",
+  "street" : "ул. Мира",
+  "houseNumber" : 45,
+  "apartmentNumber" : 947,
+  "price" : 4100000.0,
+  "livingArea" : 70.0,
+  "rooms" : 2,
+  "floor" : 9,
+  "entrance" : 1
+}, {
+  "city" : "Екатеринбург",
+  "street" : "ул. Мира",
+  "houseNumber" : 45,
+  "apartmentNumber" : 980,
+  "price" : 7860000.0,
+  "livingArea" : 70.0,
+  "rooms" : 3,
+  "floor" : 7,
+  "entrance" : 1
+}, {
+  "city" : "Екатеринбург",
+  "street" : "ул. Мира",
+  "houseNumber" : 45,
+  "apartmentNumber" : 986,
+  "price" : 2.68E7,
+  "livingArea" : 70.0,
+  "rooms" : 2,
+  "floor" : 6,
+  "entrance" : 1
+}, {
+  "city" : "Екатеринбург",
+  "street" : "ул. Мира",
+  "houseNumber" : 45,
+  "apartmentNumber" : 987,
+  "price" : 6800000.0,
+  "livingArea" : 70.0,
+  "rooms" : 4,
+  "floor" : 12,
+  "entrance" : 1
+}, {
+  "city" : "Новосибирск",
+  "street" : "ул. Советская",
+  "houseNumber" : 60,
+  "apartmentNumber" : 31,
+  "price" : 5500000.0,
+  "livingArea" : 50.0,
+  "rooms" : 2,
+  "floor" : 8,
+  "entrance" : 4
+}, {
+  "city" : "Новосибирск",
+  "street" : "ул. Советская",
+  "houseNumber" : 60,
+  "apartmentNumber" : 32,
+  "price" : 1.55E7,
+  "livingArea" : 50.0,
+  "rooms" : 3,
+  "floor" : 8,
+  "entrance" : 1
+}, {
+  "city" : "Новосибирск",
+  "street" : "ул. Советская",
+  "houseNumber" : 60,
+  "apartmentNumber" : 221,
+  "price" : 5900000.0,
+  "livingArea" : 30.0,
+  "rooms" : 2,
+  "floor" : 8,
+  "entrance" : 2
+} ]
